@@ -1,6 +1,6 @@
-let filas = prompt("Introduce numero de filas");
+let filas = parseInt(prompt("Introduce numero de filas"));
 
-let columnas = prompt("Introduce numero de columnas");
+let columnas = parseInt(prompt("Introduce numero de columnas"));
 
 let i,j;
 
